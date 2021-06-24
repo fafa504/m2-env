@@ -22,7 +22,7 @@ return array (
                             'host' => '127.0.0.1',
                             'dbname' => 'magento2',
                             'username' => 'magento2',
-                            'password' => 'magento2tropbien',
+                            'password' => 'magento2',
                             'model' => 'mysql4',
                             'engine' => 'innodb',
                             'initStatements' => 'SET NAMES utf8;',
